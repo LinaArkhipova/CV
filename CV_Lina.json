@@ -1,0 +1,35 @@
+{
+	"Name": "Lina Arkhipova",
+	"Position":"Project Manager",
+"Description":"Purposeful Junior Project Manager. Seeking opportunities to apply my skills in a dynamic company to contribute to its growth and financial performance.",
+	"Skills":["English – B1 (Intermediate)","Project management", "Risk management"],
+	"Tools":["Jira", "Confluence", "Miro"],
+	"WorkHistory":[
+		{"Company":"NDV-Komplekt LLC",
+		"Position":"Tender Procurement Specialist (Economist)",
+		"DateOfWork":"Sept. 2021- Current",
+		"WorkDescription":"Document management,Competitor analysis"
+		},
+		{"Company":"CJSC \"IdeaBank\"",
+		"Position":"Retail Banking Specialist",
+		"DateOfWork":"May 2019 - July 2021",
+		"WorkDescription":"Training and supervision of new employees,Development of schedules for employees "
+		}
+		],
+
+	"Education":[
+		{"PlaceOfEducation":"Courses IT Academy",
+		"Speciality":"IT Project Management",
+		"DateOfEducation":"Feb. 2024 - May 2024"
+		},
+		{"PlaceOfEducation":"Belarusian State University",
+		"Speciality":"Management (innovation)",
+		"DateOfEducation":"2019-2022"
+		},
+		{"PlaceOfEducation":"Minsk State College of Service Industry",
+		"Speciality":"Banking",
+		"DateOfEducation":"2016-2019"
+		}
+
+		]
+}
